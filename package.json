@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "testcafe": "DevExpress/testcafe#master"
+    "testcafe": "DevExpress/testcafe#master",
+    "testcafe-browser-provider-browserstack": "DevExpress/testcafe-browser-provider-browserstack#master"
   },
   "author": "Test",
   "license": "ISC"
